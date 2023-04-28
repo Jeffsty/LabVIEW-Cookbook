@@ -1,3 +1,3 @@
 # LabVIEW-Cookbook
 
-Exercies from the LabVIEW Cookbook.
+Exercises from the LabVIEW Cookbook.
